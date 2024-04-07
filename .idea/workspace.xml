@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73a11c21-689c-4c3d-97e3-049ed184439f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/src/test/java/Car_Accessories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test_Auomation/target/classes/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Select_Route.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Select_Route.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SelectTrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SelectTrip.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +32,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2eh83Eq4c8gTcbvZrqA94WgOVij" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,9 +46,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/iti/Desktop/TravelProject/KSRTC_Progect/src/main/resources",
+    "last_opened_file_path": "C:/Users/iti/Desktop/TravelProject/KSRTC_Progect",
     "onboarding.tips.debug.path": "C:/Users/iti/Desktop/TravelProject/KSRTC_Progect/src/main/java/org/example/Main.java"
   }
 }]]></component>

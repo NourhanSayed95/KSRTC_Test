@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 
-public class Select_Route //extends BasePage
+public class Select_Route
 {
     public Select_Route(WebDriver driver) {
        super();}
@@ -37,9 +37,9 @@ public class Select_Route //extends BasePage
     public WebElement name(WebDriver driver){
         return driver.findElement(By.id("passengerNameForward0"));
     }
-    public WebElement gender(WebDriver driver){
-        return driver.findElement(By.name("genderCodeId"));
+    public WebElement gender(WebDriver driver){return driver.findElement(By.xpath("(//select[@id='genderCodeIdForward0'])[1]"));
     }
+
     public WebElement age(WebDriver driver){
         return driver.findElement(By.name("passengerAge"));
     }
